@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Get to know more about Qingqing Yang
 
-You can use the [editor on GitHub](https://github.com/Qingqing-Yang-177/Qingqing-Yang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Qingqing Yang](https://user-images.githubusercontent.com/93237538/147696234-b68ef92c-b234-4b55-8cde-189b6b5db74e.jpg) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- An excited psychology master student interested in attention and working memory, with EEG, TMS, and fMRI facilities.
+- I'm an optimistic and energetic being, a team worker, and a patient endeavor.
+- During my leisure time, I like going to park and museum, watching animate and gaming. Also, I'm interested in music. I sing a lot, and I play guitar, piano, and cucurbit  flute. On rare occassions, I write songs. Additionally, language learning is always an intriguing task for me, if not for exams:) I self-studied Japanese from watching animate, and Koran from variety shows.
 
-### Markdown
+### Contact me
+- Email: qy775@nyu.edu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Tel: +1 (917)519-2493
 
-```markdown
-Syntax highlighted code block
+### Publication
+Working on it...
 
-# Header 1
-## Header 2
-### Header 3
+### Resume
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Qingqing-Yang-177/Qingqing-Yang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more detail, check the [Resume-QINGQING YANG-Acedemic.pdf](https://github.com/Qingqing-Yang-177/Qingqing-Yang.github.io/files/7790309/Resume-QINGQING.YANG-Acedemic.pdf)
