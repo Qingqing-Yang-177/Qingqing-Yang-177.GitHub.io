@@ -21,11 +21,11 @@ Qingqing Yang
 
 
 ## Contact Me
-  Email: qy775@nyu.edu
-  
-  Tel: +1 (917)519-2493
-  
-  New York City, NY, 10009
+Email: qy775@nyu.edu
+
+Tel: +1 (917)519-2493
+
+New York City, NY, 10009
 
 
 ## Publication
