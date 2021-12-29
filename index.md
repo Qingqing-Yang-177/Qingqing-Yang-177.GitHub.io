@@ -2,7 +2,7 @@ Qingqing Yang
 
 ![Qingqing Yang](https://user-images.githubusercontent.com/93237538/147696234-b68ef92c-b234-4b55-8cde-189b6b5db74e.jpg) 
 
-- An excited psychology master student in New York University. Using a combinition of Behavioral, eye-tracking, EEG, TMS, and fMRI methods to study human attention, memory and their interplay. 
+- **An excited psychology master student in New York University. Using a combinition of Behavioral, eye-tracking, EEG, TMS, and fMRI methods to study human attention, memory and their interplay. 
 
 - Currently working in [Dr. Clay's lab](https://www.clayspacelab.com/) in NYU.
 
