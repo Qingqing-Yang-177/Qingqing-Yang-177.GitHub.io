@@ -12,9 +12,6 @@
 
 
 
-
-
-
 ## Leisure Time
 - I'm an optimistic and energetic being, a team worker, and a patient endeavor.
 
