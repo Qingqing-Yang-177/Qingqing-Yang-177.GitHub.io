@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
+plugins: [jekyll-paginate]
 paginate: 10
 paginate_path: "page:num"
-{% for post in paginator.posts %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
-{% endfor %}
+
