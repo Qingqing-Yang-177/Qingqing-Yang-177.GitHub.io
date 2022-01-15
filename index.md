@@ -34,4 +34,5 @@ New York City, NY, 10009
 
 ## Resume
   For more detail, check the [Resume-QINGQING YANG-Acedemic.pdf](https://github.com/Qingqing-Yang-177/Qingqing-Yang.github.io/files/7790309/Resume-QINGQING.YANG-Acedemic.pdf)
-
+  
+  Or check my [Linkedin profile](https://www.linkedin.com/in/qingqing-yang-4a1383221)
