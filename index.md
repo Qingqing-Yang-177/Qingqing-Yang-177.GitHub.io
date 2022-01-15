@@ -21,7 +21,7 @@
 
 
 ## Contact Me
-Email: qy775@nyu.edu
+Email (preferred): qy775@nyu.edu
 
 Tel: +1 (917)519-2493
 
@@ -33,6 +33,6 @@ New York City, NY, 10009
 
 
 ## Resume
-  For more detail, check the [Resume-QINGQING YANG-Acedemic.pdf](https://github.com/Qingqing-Yang-177/Qingqing-Yang.github.io/files/7790309/Resume-QINGQING.YANG-Acedemic.pdf)
+  For more detail, check the [Resume_Qingqing YANG.pdf](https://github.com/Qingqing-Yang-177/Qingqing-Yang-177.GitHub.io/files/7873988/Resume_Qingqing.YANG.pdf)
   
   Or check my [Linkedin profile](https://www.linkedin.com/in/qingqing-yang-4a1383221)
