@@ -41,8 +41,13 @@ New York City, NY, 10009
 <br>
 
 ## Resume
-  For more detail, check the [Resume_Qingqing Yang.pdf](https://github.com/Qingqing-Yang-177/Qingqing-Yang-177.GitHub.io/files/7963942/Resume_Qingqing.Yang.pdf)
+  For more detail, please check:
+  
+  [Resume_Qingqing Yang.pdf](https://github.com/Qingqing-Yang-177/Qingqing-Yang-177.GitHub.io/files/7963942/Resume_Qingqing.Yang.pdf)
   <br>
-
-  Or check my [Linkedin profile](https://www.linkedin.com/in/qingqing-yang-4a1383221)
-<br>
+  
+  [Personal Websit](https://qingqing-yang-177.github.io/)
+  <br>
+  
+  [Linkedin profile](https://www.linkedin.com/in/qingqing-yang-4a1383221)
+  <br>
