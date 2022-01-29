@@ -1,4 +1,4 @@
-## Qingqing Yang
+# Qingqing Yang
 
 ![Qingqing Yang](https://user-images.githubusercontent.com/93237538/147696234-b68ef92c-b234-4b55-8cde-189b6b5db74e.jpg) 
 
