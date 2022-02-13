@@ -17,6 +17,7 @@
 01/2022 until now, Course Assistant
 - Advanced Psychological Statistics (Undergrad course), New York University
 - Attend lectures, lead 2 recitations per week teaching Stats and R, proctor exams, grade assignments and hold office hours.
+- check the recitation logs for details like slides and R documents [Recitation Log](https://sites.google.com/nyu.edu/advpsystats22spring-recitation/home)
 
 05/2019-06/2021, Research Assistant
 - At [Dr. Hui Chen's lab](https://person.zju.edu.cn/en/huichen), Zhejiang University
