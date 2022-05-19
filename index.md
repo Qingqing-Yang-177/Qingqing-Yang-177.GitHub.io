@@ -5,8 +5,10 @@
 <br>
 
 - An excited psychology master student in New York University. Using a combinition of Behavioral, eye-tracking, EEG, TMS, and fMRI methods to study human attention, memory, their interplay and neural basis.
+- Current work is based on behavioral modeling for working memory representations and resource allocation strategies, and neural modeling based on fMRI data. Modeling experience could be found on [Qingqing's github](https://github.com/Qingqing-Yang-177)
 - Currently working in [Dr. Clay's lab](https://www.clayspacelab.com/) in NYU.
 - Graduated from Zhejiang University, China with a balchor's degree in psychology. 
+- New interest in Neuro-AI, deep nets, deep RNN of representation and learning.
 
 ## Leisure Time
 - I'm an optimistic and energetic being, a team worker, and a patient endeavor.
@@ -47,7 +49,7 @@ New York City, NY, 10009
   [Resume_Qingqing Yang.pdf](https://github.com/Qingqing-Yang-177/Qingqing-Yang-177.GitHub.io/files/7963942/Resume_Qingqing.Yang.pdf)
   <br>
   
-  [Personal Websit](https://qingqing-yang-177.github.io/)
+  [Personal Website](https://qingqing-yang-177.github.io/)
   <br>
   
   [Linkedin profile](https://www.linkedin.com/in/qingqing-yang-4a1383221)
