@@ -1,8 +1,8 @@
 # Qingqing Yang
 
-![Qingqing Yang](https://user-images.githubusercontent.com/93237538/147696234-b68ef92c-b234-4b55-8cde-189b6b5db74e.jpg) 
-
-<br>
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/93237538/169434712-742d608a-63f6-4839-a997-31250dc0d34e.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 - An excited psychology master student in New York University. Using a combinition of Behavioral, eye-tracking, EEG, TMS, and fMRI methods to study human attention, memory, their interplay and neural basis.
 - Current work is based on behavioral modeling for working memory representations and resource allocation strategies, and neural modeling based on fMRI data. Modeling experience could be found on [Qingqing's github](https://github.com/Qingqing-Yang-177)
