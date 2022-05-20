@@ -1,19 +1,20 @@
-
+### Self Intro
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/93237538/169434712-742d608a-63f6-4839-a997-31250dc0d34e.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-### Qingqing Yang
-- An excited psychology master student in New York University. Using a combinition of Behavioral, eye-tracking, EEG, TMS, and fMRI methods to study human attention, memory, their interplay and neural basis.
-- Current work is based on behavioral modeling for working memory representations and resource allocation strategies, and neural modeling based on fMRI data. Modeling experience could be found on [Qingqing's github](https://github.com/Qingqing-Yang-177)
-- Currently working in [Dr. Clay's lab](https://www.clayspacelab.com/) in NYU.
+- Hi, I'm **Qingqing Yang**, an excited psychology master's student at New York University. 
+- Using a combinition of Behavioral, eye-tracking, EEG, TMS, and fMRI methods to study human attention, memory, their interplay and neural basis.
+- I like modeling in general. My current work is based on behavioral modeling for working memory representations and resource allocation strategies, and neural modeling based on fMRI data. Modeling experience could be found on [Qingqing's github](https://github.com/Qingqing-Yang-177)
+- Now I'm working on my thesis in [Dr. Clay's lab](https://www.clayspacelab.com/) at NYU.
 - Graduated from Zhejiang University, China with a balchor's degree in psychology. 
 - New interest in Neuro-AI, deep nets, deep RNN of representation and learning.
 
 ### Leisure Time
-- I'm an optimistic and energetic being, a team worker, and a patient endeavor.
+- I'm an optimistic and energetic being, a self learner, a detail orientated, and patient endeavor.
 - I like going to park and museum, watching animate and gaming. Also, I'm interested in music. I sing a lot, and I play guitar, piano, and cucurbit  flute. On rare occassions, I write songs. 
 - Language learning is always an intriguing task for me, if not for exams:) I self-studied Japanese from watching animate, and Koran from variety shows.
+- New habit is skateboarding
 
 ### Work Experience
 01/2022 until now, Course Assistant
