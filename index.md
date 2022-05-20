@@ -37,9 +37,6 @@
 Email (preferred): qy775@nyu.edu
 <br>
 
-Tel: +1 (917)519-2493
-<br>
-
 New York City, NY, 10009
 <br>
 
